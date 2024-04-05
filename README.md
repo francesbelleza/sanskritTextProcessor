@@ -6,11 +6,14 @@
    that contains all of the English translation. I've attached the text file of the Tantrasara
    to this repo.
 
+
 2. How to use this program?
    
    To use this program, you'll need to have the text file in the same src folder as the program,
    enter the name of the text file as it's found in your folder, and then enter two names for extracted
    Sanskrit & English.
 
-3. Things that I'm wanting to add -> these can be found at the top of my program under "OBJECTIVES."
+
+3. Things that I'm wanting to add...
+   These can be found at the top of my program under "OBJECTIVES."
    It's in note form so please excuse me.
